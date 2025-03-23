@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there! I am Charlie 👋
+- I am currently working on my project [Starfleet Command](https://github.com/charlie2099/Starfleet-Command), a 2D top-down strategy game inspired by Age of War and Plants vs Zombies!
 
 <!--
 **charlie2099/charlie2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
